@@ -1,4 +1,4 @@
-![Banner Image](banner3.png)(https://github.com/yuckdevchan)
+[![Banner Image](banner3.png)](https://github.com/yuckdevchan)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuckdevchan&show_icons=true&theme=transparent&hide_border=true)](https://github.com/yuckdevchan)
 
