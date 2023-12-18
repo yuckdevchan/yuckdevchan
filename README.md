@@ -6,4 +6,4 @@
 
 <a href="https://github.com/yuckdevchan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuckdevchan&layout=compact&theme=transparent&hide_border=true&langs_count=4&exclude_repo=tibernet3" /></a>
 
-![Get Supersonic](get_supersonic.png)
+<a href="https://supersonic.software"><img align="center" alt="Get Supersonic Badge" width="300px" src="get_supersonic.png"></img></a>
